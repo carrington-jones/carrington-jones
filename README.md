@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @carrington-jones
+- 👋 Hi, I’m Carrington
 - 👀 I’m interested in starting a new career in software development, where I can continue to learn and grow.
 - 🌱 I’m currently learning Fullstack Web Development at Codeup.
 - 🏆 I’m looking to collaborate on various projects with my classmates and other creators.
