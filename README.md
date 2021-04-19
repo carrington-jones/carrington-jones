@@ -8,7 +8,7 @@
 <h3 align="left"> GitHub Stats</h3>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=carrington-jones&show_icons=true" alt="carrington-jones" /> 
 
-<h3 align="left"> GitHub Stats</h3>
+<h3 align="left"> GitHub Most Used Languages</h3>
 <p align="left"> <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=carrington-jones&layout=compact" >
 
 
