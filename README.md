@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Carrington Jones</h1><br>
+<img src="/Carrington_Jones_GitHub_Cover.png" alt="cover"/>
 
 - 👀 I’m interested in starting a new career in software development, where I can continue to learn and grow.
 
