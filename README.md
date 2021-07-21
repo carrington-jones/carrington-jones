@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Carrington
+### Hi there 👋, I'm Carrington Jones
 - 👀 I’m interested in starting a new career in software development, where I can continue to learn and grow.
 - 🌱 I’m currently learning React and MVC design patterns.
 - 🏆 I’m looking to collaborate on various open source projects.
