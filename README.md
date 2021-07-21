@@ -1,5 +1,9 @@
 <img src="/Carrington_Jones_GitHub_Cover.png" alt="cover"/>
 
+### Hey there! <img align="left"  src="/hand.gif" width="80">
+
+Full Stack Java Developer with over 10 years of experience in asset management, with a background in process optimization, operations management and revenue maximization. Heightened corporate business decision making skills ignite my desire to improve operational software that contributes to solution-focused business development.
+
 - 👀 I’m interested in starting a new career in software development, where I can continue to learn and grow.
 
 - 🌱 I’m currently learning React and MVC design patterns.
@@ -26,6 +30,7 @@
   <a href="https://nodejs.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a></p>
 
 <h3 align="left"> GitHub Stats</h3>
+<hr>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=carrington-jones&show_icons=true" alt="carrington-jones" /> 
 
 <h3 align="left"> GitHub Most Used Languages</h3>
