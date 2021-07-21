@@ -1,7 +1,11 @@
-### Hi there 👋, I'm Carrington Jones
+<h1 align="center">Hi there 👋, I'm Carrington Jones</h1><br>
+
 - 👀 I’m interested in starting a new career in software development, where I can continue to learn and grow.
+
 - 🌱 I’m currently learning React and MVC design patterns.
+
 - 🏆 I’m looking to collaborate on various open source projects.
+
 - 📫 The best way to reach me is at Carrington.Jones47@gmail.com
 
 <h3 align="left">Languages and Tools:</h3>
@@ -18,8 +22,8 @@
 
 <h3 align="left">Exposure to:</h3>
 <p align="left">   
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a></p>
+  <a href="https://reactjs.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a> 
+  <a href="https://nodejs.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a></p>
 
 <h3 align="left"> GitHub Stats</h3>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=carrington-jones&show_icons=true" alt="carrington-jones" /> 
