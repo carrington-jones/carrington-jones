@@ -30,7 +30,6 @@ Full Stack Java Developer with over 10 years of experience in asset management, 
   <a href="https://nodejs.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a></p>
 
 <h3 align="left"> GitHub Stats</h3>
-<hr>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=carrington-jones&show_icons=true" alt="carrington-jones" /> 
 
 <h3 align="left"> GitHub Most Used Languages</h3>
