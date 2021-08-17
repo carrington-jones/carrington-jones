@@ -6,7 +6,7 @@ Full Stack Java Developer with over 10 years of experience in asset management, 
 
 - 👀 I’m interested in starting a new career in software development, where I can continue to learn and grow.
 
-- 🌱 I’m currently learning React and MVC design patterns.
+- 🌱 I’m currently learning React and Spring Boot.
 
 - 🏆 I’m looking to collaborate on various open source projects.
 
