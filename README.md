@@ -4,7 +4,7 @@
 
 Full Stack Java Developer with over 10 years of experience in asset management, with a background in process optimization, operations management and revenue maximization. Heightened corporate business decision making skills ignite my desire to improve operational software that contributes to solution-focused business development.
 
-- 👀 I’m interested in starting a learning as much as I can and continuing my software development career, where I can continue to learn and grow.
+- 👀 I’m interested in continuing my software development career, where I can continue to learn and grow.
 
 - 🌱 I’m currently learning Advanced React and Redux.
 
